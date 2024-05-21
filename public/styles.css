@@ -1,0 +1,30 @@
+body {
+    background-color: #f8faf8;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: #343a40;
+    font-weight: bold;
+}
+
+h2 {
+    color: #bd3553;
+    font-size: medium;
+}
+.btn-group-toggle .btn {
+    width: 120px; /* Adjust the width to fit the image and text */
+    height: 140px; /* Adjust the height to fit the image and text */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    padding: 10px; /* Add some padding */
+}
+
+.button-img {
+    width: 100px; /* Adjust the width of the image */
+    height: 100px; /* Adjust the height of the image */
+    margin-bottom: 10px; /* Add some space between the image and text */
+}
